@@ -40,5 +40,9 @@ Here are some highlighted projects:
 
 ![Neha's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Curious-Cathy&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Curious-Cathy&layout=compact&theme=tokyonight)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Curious-Cathy&theme=tokyonight&no-frame=true&row=1&column=6)
+
 
 Thanks for visiting! 😊
