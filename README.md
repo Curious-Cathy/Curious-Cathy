@@ -9,8 +9,8 @@ Welcome to my GitHub profile!
 
 ## 🌟 About Me
 
-I'm a passionate developer focusing on building interactive and responsive applications.  
-I enjoy learning new technologies and working on open-source projects.
+I'm a Frontend-focused developer passionate about building clean, responsive, and user-centered applications.  
+Currently exploring computer vision and real-world AI implementations.
 
 - 💻 Frontend development with React Native
 - 🔍 Currently enhancing projects like YOLO object detection
