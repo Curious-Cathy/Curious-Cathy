@@ -28,8 +28,8 @@ Here are some highlighted projects:
 
 ## 📫 Connect with Me
 
-💼 Portfolio: [https://your-portfolio-link.com ](https://curious-cathy.github.io) 
-📌 GitHub: https://github.com/Curious-Cathy  
+💼 Portfolio: [https://curious-cathy.github.io]
+📌 LinkedIn: www.linkedin.com/in/nehaar04
 📬 Email: arneha2004@gmail.com
 
 Thanks for visiting! 😊
