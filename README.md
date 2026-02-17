@@ -1,39 +1,18 @@
-# 👋 Hello, I'm Neha
-
-Welcome to my GitHub profile!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://curious-cathy.github.io/)
+# 💫 About Me:
+👩‍💻 About Me<br><br>- 💻 Frontend-focused developer <br>- 🎨 Passionate about building clean & responsive UI<br>- 🤝 Experience in collaborative AI & group projects<br>- 🚀 Always learning & exploring new technologies<br>- 🌱 Focused on growth and real-world problem solving<br>
 
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehaar04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arneha2004@gmail.com) 
 
-## 🌟 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Curious-Cathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Curious-Cathy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Curious-Cathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a Frontend-focused developer passionate about building clean, responsive, and user-centered applications.  
-Currently exploring computer vision and real-world AI implementations.
-
-- 💻 Frontend development with React Native
-- 🔍 Currently enhancing projects like YOLO object detection
-- 🎯 Focused on clean code and real-world solutions
-- 📫 Reach me via arneha2004@gmail.com
-
----
-
-## 🚀 Projects
-
-Here are some highlighted projects:
-
-- **📸 YOLO-based Detection** – Small object detection project
-- **📱 Other React & JavaScript apps**
-
-
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://curious-cathy.github.io)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NEHA%20A%20R-1178B3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3A3A3A)](https://www.linkedin.com/in/nehaar04)
-
-[![Email](https://img.shields.io/badge/Email-arneha2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arneha2004@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 📊 GitHub Stats
