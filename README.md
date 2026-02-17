@@ -38,7 +38,7 @@ Here are some highlighted projects:
 
 ## 📊 GitHub Stats
 
-![Neha's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Curious-Cathy&show_icons=true&theme=github_dark)
+![Neha's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Curious-Cathy&show_icons=true&theme=tokyonight)
 
 
 Thanks for visiting! 😊
