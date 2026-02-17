@@ -1,5 +1,5 @@
-# 💫 About Me:
-👩‍💻 About Me<br><br>- 💻 Frontend-focused developer <br>- 🎨 Passionate about building clean & responsive UI<br>- 🤝 Experience in collaborative AI & group projects<br>- 🚀 Always learning & exploring new technologies<br>- 🌱 Focused on growth and real-world problem solving<br>
+# Hi, I'm Neha 💫:
+<br>- 💻 Frontend-focused developer <br>- 🎨 Passionate about building clean & responsive UI<br>- 🤝 Experience in collaborative AI & group projects<br>- 🚀 Always learning & exploring new technologies<br>- 🌱 Focused on growth and real-world problem solving<br>
 
 
 ## 🌐 Socials:
