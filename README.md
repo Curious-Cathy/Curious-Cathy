@@ -40,5 +40,9 @@ Here are some highlighted projects:
 
 ![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curious-Cathy&show_icons=true&theme=github_dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curious-Cathy&layout=compact)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Curious-Cathy)
+
 
 Thanks for visiting! 😊
