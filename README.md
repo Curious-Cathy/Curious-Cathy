@@ -27,8 +27,6 @@ Here are some highlighted projects:
 - **📱 Other React & JavaScript apps**
 
 
-## 📫 Connect with Me
-
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://curious-cathy.github.io)
@@ -37,5 +35,9 @@ Here are some highlighted projects:
 
 [![Email](https://img.shields.io/badge/Email-arneha2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arneha2004@gmail.com)
 
+
+## 📊 GitHub Stats
+
+![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curious-Cathy&show_icons=true&theme=default)
 
 Thanks for visiting! 😊
