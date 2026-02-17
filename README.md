@@ -38,6 +38,7 @@ Here are some highlighted projects:
 
 ## 📊 GitHub Stats
 
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curious-Cathy&show_icons=true&theme=github_dark&cache_seconds=60)
+![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curious-Cathy&show_icons=true&theme=github_dark)
+
 
 Thanks for visiting! 😊
